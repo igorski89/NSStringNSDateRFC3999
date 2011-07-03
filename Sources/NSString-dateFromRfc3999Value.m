@@ -8,7 +8,6 @@
 
 #import "NSString-dateFromRfc3999Value.h"
 
-
 @implementation NSString (dateFromRfc3999Value)
 
 - (NSDate*)dateFromRfc3999Value {
