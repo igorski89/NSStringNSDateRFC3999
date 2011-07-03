@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'NSStringNSDateRFC3999' target in the 'NSStringNSDateRFC3999' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+
+    #import "NSDate-rfc3999StringValue.h"
+    #import "NSString-dateFromRfc3999Value.h"
+#endif
